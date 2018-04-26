@@ -26,5 +26,14 @@
 #### Tools - Links
 #### Tools - other
 
+### **YouTube**
+#### Youtube - Channels
+* [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)
+* [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+* [MurmusCTF](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A)
+* [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+* [Derek Rook](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA)
+* [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q)
+* [Guided Hacking](https://www.youtube.com/channel/UCCMi6F5Ac3kQDfffWXQGZDw)
 
 Rayquazid - Whitehat, Datacenter-Security-Engineer, Wannabe Hacker
