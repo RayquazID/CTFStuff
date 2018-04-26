@@ -3,6 +3,7 @@
 ### **RE**
 #### RE - Links
 https://medium.com/bugbountywriteup/bolo-reverse-engineering-part-1-basic-programming-concepts-f88b233c63b7
+https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf
 https://moveax.me/
 #### RE - other
 ### **Python**
