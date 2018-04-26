@@ -2,9 +2,9 @@
 ## My random notes on different topics
 ### **RE**
 #### RE - Links(
-[Reversing Basics](https://medium.com/bugbountywriteup/bolo-reverse-engineering-part-1-basic-programming-concepts-f88b233c63b7)
-[Intel instruction-set-reference-manual](https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf)
-[moveax.me - writeups](https://moveax.me/)
+*[Reversing Basics](https://medium.com/bugbountywriteup/bolo-reverse-engineering-part-1-basic-programming-concepts-f88b233c63b7)
++[Intel instruction-set-reference-manual](https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf)
+-[moveax.me - writeups](https://moveax.me/)
 #### RE - other
 ### **Python**
 #### Python - Links
@@ -21,6 +21,3 @@
 #### 
 #### 
 Rayquazid - Whitehat, Datacenter-Security-Engineer, Wannabe Hacker
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
