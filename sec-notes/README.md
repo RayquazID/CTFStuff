@@ -36,4 +36,10 @@
 * [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q)
 * [Guided Hacking](https://www.youtube.com/channel/UCCMi6F5Ac3kQDfffWXQGZDw)
 
+### **Awesome 1337 stuff**
+* [Awesome Shells](https://terminalsare.sexy/)
+* [more Awesome Shell Stuff](https://github.com/alebcay/awesome-shell)
+* [Awesome Shell Parrot](https://github.com/hugomd/parrot.live)
+* [more Awesome Parrots](http://cultofthepartyparrot.com/)
+
 Rayquazid - Whitehat, Datacenter-Security-Engineer, Wannabe Hacker
