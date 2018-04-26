@@ -21,3 +21,6 @@
 #### 
 #### 
 Rayquazid - Whitehat, Datacenter-Security-Engineer, Wannabe Hacker
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
