@@ -23,7 +23,7 @@
 ### **Python**
 #### Python - Links
 * [quick deepdive](https://www.binary-zone.com/course/HTID/Python4Infosec.pdf)
-* [pip-install] (https://pip.pypa.io/en/stable/installing/)
+* [pip-install](https://pip.pypa.io/en/stable/installing/)
 #### Python - pwntools
 * [pwntools-docs](https://docs.pwntools.com/en/stable/search.html?q=irc&check_keywords=yes&area=default)
 #### Python - other
