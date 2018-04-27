@@ -8,6 +8,13 @@
 * [moveax.me - writeups](https://moveax.me/)
 #### RE - other
 
+### **GDB**
+#### GDB - Enhancements
+* [GDB gef](https://github.com/hugsy/gef)
+* [GDB peda](https://github.com/longld/peda)
+* [GDB peda-install](http://security.cs.pub.ro/hexcellents/wiki/kb/toolset/peda)
+#### GDB - Commands
+
 ### **Python**
 #### Python - Links
 #### Python - pwntools
@@ -17,10 +24,20 @@
 #### Microcontroller - Links
 #### Microcontroller - other
 
+### **LINUX**
+#### Linux - Cheatsheets
+
 ### **Markdown**
 #### Markdown - Links
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 #### Markdown - other
+
+### **CTF**
+#### CTF - Online
+* [CTFTime](https://ctftime.org/event/list/upcoming)
+#### CTF - Wargames
+* [Exploit-Exercises Protostar](https://exploit-exercises.com/protostar/)
+* [RPISEC Modern Binary Exploitation](https://github.com/RPISEC/MBE)
 
 ### **Tools**
 #### Tools - Links
