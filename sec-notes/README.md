@@ -79,6 +79,6 @@
 * [more Awesome Parrots](http://cultofthepartyparrot.com/)
 
 Rayquazid - Whitehat, Datacenter-Security-Engineer, Wannabe Hacker
-
-> **Günther
- *Lea Kaschmann*
+>
+>
+> Günther
