@@ -80,6 +80,5 @@
 
 Rayquazid - Whitehat, Datacenter-Security-Engineer, Wannabe Hacker
 
-**Günther**
-
+**Günther
  -- *Lea Kaschmann*
