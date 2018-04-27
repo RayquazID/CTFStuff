@@ -34,6 +34,11 @@
 
 ### **Windows**
 #### Powershell
+* [PSEmpire](http://www.powershellempire.com/)
+* [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL)
+* [Awesome PS](https://github.com/janikvonrotz/awesome-powershell)
+* [PS Basics](https://www.darkoperator.com/powershellbasics/)
+
 #### Tools
 #### OS
 
