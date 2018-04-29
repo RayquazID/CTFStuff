@@ -47,6 +47,7 @@
 ##### How to manage users
 ##### How to manage containers
 ##### How to delete a container
+##### How to backup a container
 ##### How to connect to a container
 ##### Networking with Docker
 
