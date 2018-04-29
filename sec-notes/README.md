@@ -100,9 +100,15 @@ id
 ##### How to backup a container
 ##### How to connect to a container
 ##### Networking with Docker
+* [Docker Docs Networking](https://docs.docker.com/network/)
+* [Container Networking](https://docs.docker.com/config/containers/container-networking/)
 
 ### **ElasticSearch & Kibana**
-#### ElasticSearch & Kibana - 
+#### ElasticSearch & Kibana - Installation
+#### Collecting Data
+#### Search for Data
+#### Building a Dashboard
+#### Monitoring/Networking
 
 ### **Windows**
 #### Powershell
