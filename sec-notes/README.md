@@ -35,7 +35,23 @@
 ### **LINUX**
 #### Linux - Cheatsheets
 #### Linux - tmux
-#### Linux - 
+#### Linux - Docker
+* [Docker Basics]()
+* [Official Docker Cheatsheet](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf)
+* [more Docker Cheatsheets](https://dockercheatsheet.painlessdocker.com/)
+* [more Docker Cheatsheets](https://github.com/wsargent/docker-cheat-sheet)
+
+How to build an image
+How to run and stop a container
+How to check status
+How to manage users
+How to manage containers
+How to delete a container
+How to connect to a container
+Networking with Docker
+
+### **ElasticSearch & Kibana**
+#### ElasticSearch & Kibana - 
 
 ### **Windows**
 #### Powershell
