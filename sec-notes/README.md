@@ -34,6 +34,11 @@
 
 ### **LINUX**
 #### Linux - Cheatsheets
+#### Linux - bash oneliners
+Search filesystem for 20 biggest files
+```bash
+du -hsx * | sort -rh | head -10
+```
 #### Linux - tmux
 #### Linux - Docker
 * [Docker Basics]()
