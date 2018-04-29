@@ -37,8 +37,18 @@
 #### Linux - bash oneliners
 Search filesystem for 20 biggest files
 ```bash
-du -hsx * | sort -rh | head -10
+du -hsx * | sort -rh | head -20
 ```
+Extract all kinds of archives in a new subdirectory with one tool
+```bash
+sudo apt-get install dtrx
+dtrx something.zip
+```
+Extract all kinds of archives without extra tools
+```bash
+to be filled...
+```
+
 #### Linux - tmux
 #### Linux - Docker
 * [Docker Basics]()
