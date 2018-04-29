@@ -94,10 +94,35 @@ id
 ##### How to build an image
 ##### How to run and stop a container
 ##### How to check status
+```bash
+docker container stats --all
+docker ps 
+```
 ##### How to manage users
 ##### How to manage containers
 ##### How to delete a container
+##### How to create a volume
+```bash
+```
 ##### How to backup a container
+Find the container ID and Backup container
+```bash
+docker ps
+docker commit -p CONTAINERID IMAGENAME
+```
+List container images
+```bash
+docker images
+```
+Load docker images
+```bash
+docker run IMAGENAME
+```
+Export container as .tar archive
+```bash
+docker save -o ~/container1.tar IMAGENAME
+```
+
 ##### How to connect to a container
 ##### Networking with Docker
 * [Docker Docs Networking](https://docs.docker.com/network/)
@@ -140,7 +165,7 @@ docker network inspect DOCKNETID
 * [root-me.org](https://www.root-me.org/?lang=de)
 #### PwnAdventure 3: Pwnie Island
 * [Download PwnAdventure 3](http://www.pwnadventure.com/)
-* [LiveOverflow PwnAdventure GitRepo](https://github.com/LiveOverflow/PwnAdventure3)
+* [LiveOverflow PwnAdventure GitRepo](https://github.com/LiveOverflow/PwnAdventure3) Go here for docker server setup
 ##### PwnAdventure 3: Pwnie Island - Writeups
 
 ### **Tools**
