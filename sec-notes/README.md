@@ -41,6 +41,10 @@
 * [more Docker Cheatsheets](https://dockercheatsheet.painlessdocker.com/)
 * [more Docker Cheatsheets](https://github.com/wsargent/docker-cheat-sheet)
 
+##### How to install docker && docker-compose
+First you need to install the official docker CE linux package on your system (in my case Debian based way). There is a complete guide for most systems available here [Docker install Docs](https://docs.docker.com/install/linux/docker-ce/debian/#install-using-the-repository)
+
+asdasd
 ##### How to build an image
 ##### How to run and stop a container
 ##### How to check status
