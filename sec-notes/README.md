@@ -44,7 +44,38 @@
 ##### How to install docker && docker-compose
 First you need to install the official docker CE linux package on your system (in my case Debian based way). There is a complete guide for most systems available here [Docker install Docs](https://docs.docker.com/install/linux/docker-ce/debian/#install-using-the-repository)
 
-asdasd
+Now update your apt
+```bash
+sudo apt-get update
+```
+After that you have to install a few packages, in most cases you will already have most of them installed.
+```bash
+sudo apt-get install apt-transport-https ca-certificates curl gnupg2 software-properties-common
+```
+In order to connect with the Docker Repo you need to import the actual GPG-Key
+```bash
+curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
+```
+You just want to add the stable Repo to your apt source.list or source.list.d/
+```bash
+echo "deb [arch=amd64] https://download.docker.com/linux/debian stretch stable" > /etc/apt/sources.list.d/docker.list
+apt update
+```
+Now we can finally install the actual docker-ce build via apt
+```bash
+sudo apt-get install docker-ce
+```
+Wait until installation is finished and also install docker-compose, you'll need it
+```bash
+sudo apt-get install docker-compose
+```
+The last step of installation is adding the current user into the docker group relogin and check settings 
+```bash
+sudo usermod -a -G docker $USER
+sudo reboot
+id
+```
+
 ##### How to build an image
 ##### How to run and stop a container
 ##### How to check status
