@@ -48,6 +48,11 @@ Extract all kinds of archives without extra tools
 ```bash
 to be filled...
 ```
+#### Linux - SSH
+Copy files over SSH
+```bash
+scp USER@HOST:/<PATH TO REMOTE FILE> <PATH TO LOCAL FILE>
+```
 #### Linux - Users, Groups and File Permissions
 #### Linux - tmux
 #### Linux - Docker
