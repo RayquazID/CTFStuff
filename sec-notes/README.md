@@ -48,6 +48,10 @@ Extract all kinds of archives without extra tools
 ```bash
 to be filled...
 ```
+Find info on zip-Archive incl. Encryption Algorithm
+```bash
+7z l -slt example.zip
+```
 #### Linux - SSH
 Copy files over SSH
 ```bash
