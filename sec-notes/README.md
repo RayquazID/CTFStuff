@@ -59,7 +59,8 @@ scp USER@HOST:/<PATH TO REMOTE FILE> <PATH TO LOCAL FILE>
 ```
 #### Linux - Users, Groups and File Permissions
 #### Linux - tmux
-* [TMUX Cheat Sheet](http://atkinsam.com/documents/tmux.pdf)
+* [tmux Cheat Sheet](http://atkinsam.com/documents/tmux.pdf)
+* [tmux Introduction by IppSec](https://www.youtube.com/watch?v=Lqehvpe_djs)
 #### Linux - Docker
 * [Docker Basics]()
 * [Official Docker Cheatsheet](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf)
