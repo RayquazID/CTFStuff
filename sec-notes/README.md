@@ -52,6 +52,10 @@ Find info on zip-Archive incl. Encryption Algorithm
 ```bash
 7z l -slt example.zip
 ```
+Standard Bash for-Loop
+```bash
+for i in {1..10} ; do <COMMAND> ; done
+```
 #### Linux - SSH
 Copy files over SSH
 ```bash
