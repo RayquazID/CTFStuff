@@ -61,6 +61,13 @@ Copy files over SSH
 ```bash
 scp USER@HOST:/<PATH TO REMOTE FILE> <PATH TO LOCAL FILE>
 ```
+#### Linux - SSH Keys
+* [DO Set Up SSH KeyPair](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2)
+Generate KeyPair
+```bash
+ssh-keygen -t rsa
+```
+
 #### Linux - Users, Groups and File Permissions
 #### Linux - tmux
 * [tmux Cheat Sheet](http://atkinsam.com/documents/tmux.pdf)
