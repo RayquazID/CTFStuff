@@ -67,6 +67,10 @@ Generate KeyPair
 ```bash
 ssh-keygen -t rsa
 ```
+Use RSA Private Key to Connect(directly from file)
+```bash
+ssh -i <PATH TO FILE> host@example.com
+```
 
 #### Linux - Users, Groups and File Permissions
 #### Linux - tmux
@@ -77,6 +81,11 @@ ssh-keygen -t rsa
 * [Official Docker Cheatsheet](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf)
 * [more Docker Cheatsheets](https://dockercheatsheet.painlessdocker.com/)
 * [more Docker Cheatsheets](https://github.com/wsargent/docker-cheat-sheet)
+#### Linux - Enumeration
+* [LinEnum.sh](https://github.com/rebootuser/LinEnum)
+```bash
+./LinEnum.sh -r report -e /tmp/LinEnum/ -t
+```
 
 ##### How to install docker && docker-compose
 First you need to install the official docker CE linux package on your system (in my case Debian based way). There is a complete guide for most systems available here [Docker install Docs](https://docs.docker.com/install/linux/docker-ce/debian/#install-using-the-repository)
