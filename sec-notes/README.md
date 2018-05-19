@@ -201,7 +201,13 @@ docker network inspect DOCKNETID
 
 ### **Tools**
 #### Tools - Links
+#### Tools - Nmap
+Basic full TCP scan all Ports, run Scripts and Output all Formats
+```bash
+nmap -sV -sC -p 1-65535 -T4 -A -v 10.10.10.75 -oA ./nmap/<REPORT>
+```
 #### Tools - other
+
 
 ### **YouTube**
 #### Youtube - Channels
