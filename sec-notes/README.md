@@ -73,9 +73,12 @@ ssh -i <PATH TO FILE> host@example.com
 ```
 
 #### Linux - Users, Groups and File Permissions
+#### Linux - VI/M
+* [Best vimrc out there](https://github.com/amix/vimrc)
 #### Linux - tmux
 * [tmux Cheat Sheet](http://atkinsam.com/documents/tmux.pdf)
 * [tmux Introduction by IppSec](https://www.youtube.com/watch?v=Lqehvpe_djs)
+* [tmux /powerline](https://github.com/gpakosz/.tmux)
 #### Linux - Docker
 * [Docker Basics]()
 * [Official Docker Cheatsheet](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf)
