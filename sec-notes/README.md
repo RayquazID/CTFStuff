@@ -39,6 +39,8 @@ python -m SimpleHTTPServer 80
 ### **LINUX**
 #### Linux - Cheatsheets
 #### Linux - bash oneliners
+From sudo to root
+* [](http://touhidshaikh.com/blog/?p=790)
 Search filesystem for 20 biggest files
 ```bash
 du -hsx * | sort -rh | head -20
