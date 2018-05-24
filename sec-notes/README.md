@@ -204,6 +204,20 @@ docker network inspect DOCKNETID
 
 ### **Tools**
 #### Tools - Links
+#### Tools - john the ripper
+unshadow the hash
+```bash
+umask 077
+unshadow /etc/passwd /etc/shadow > mypasswd
+```
+Crack Linux SHA-256 unshadowed Hash file (defaultmode)
+```bash
+john mypasswd
+```
+Crack Linux SHA-256 unshadowed Hash file (specific)
+```bash
+john --wordlist=passwords.lst --rules mypasswd
+```
 #### Tools - Nmap
 Nmap Quick Scan
 ```bash
