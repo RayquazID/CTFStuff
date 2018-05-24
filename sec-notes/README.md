@@ -239,7 +239,7 @@ nmap -T4 -F 10.10.10.1/24
 ```
 Basic full TCP scan all Ports, run Scripts and Output all Formats
 ```bash
-nmap -sV -sC -p 1-65535 -T4 -A -v 10.10.10.1/24 -oA ./nmap/<REPORT>
+nmap -sV -sC -p 1-65535 -T4 -A -v 10.10.10.1/24 -oA ./<REPORT>
 ```
 
 #### Tools - other
