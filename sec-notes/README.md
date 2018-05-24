@@ -61,6 +61,14 @@ Copy files over SSH
 ```bash
 scp USER@HOST:/<PATH TO REMOTE FILE> <PATH TO LOCAL FILE>
 ```
+Copy files over SSH recursively
+```bash
+scp -rp USER@HOST:/<PATH TO REMOTE FILE> <PATH TO LOCAL FILE>
+```
+Copy files over SSH specific port
+```bash
+scp -P 22022 USER@HOST:/<PATH TO REMOTE FILE> <PATH TO LOCAL FILE>
+```
 #### Linux - SSH Keys
 * [DO Set Up SSH KeyPair](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2)
 Generate KeyPair
