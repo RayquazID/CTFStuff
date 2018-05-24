@@ -27,6 +27,10 @@
 #### Python - pwntools
 * [pwntools-docs](https://docs.pwntools.com/en/stable/search.html?q=irc&check_keywords=yes&area=default)
 #### Python - other
+Python SimpleHTTP Server
+```bash
+python -m SimpleHTTPServer 80
+```
 
 ### **Microcontroller**
 #### Microcontroller - Links
