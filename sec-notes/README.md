@@ -75,6 +75,15 @@ Copy files over SSH specific port
 ```bash
 scp -P 22022 USER@HOST:/<PATH TO REMOTE FILE> <PATH TO LOCAL FILE>
 ```
+Find rsa private keys
+```bash
+cat /home/<USER>/.ssh/id_rsa
+cat /home/<USER>/.ssh/rsa_key
+cat /home/<USER>/.ssh/key_rsa
+cat /home/<USER>/.ssh/rsa_priv
+cat /root/.ssh/<FILENAME>
+```
+
 #### Linux - SSH Keys
 * [DO Set Up SSH KeyPair](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2)
 Generate KeyPair
