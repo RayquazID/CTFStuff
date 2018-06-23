@@ -62,6 +62,10 @@ Standard Bash for-Loop
 ```bash
 for i in {1..10} ; do <COMMAND> ; done
 ```
+Find RSA Private keys in filesystem
+```bash
+grep -rnw '/' -e 'RSA PRIVATE'
+```
 #### Linux - SSH
 Copy files over SSH
 ```bash
