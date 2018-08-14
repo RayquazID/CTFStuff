@@ -79,6 +79,10 @@ Copy files over SSH specific port
 ```bash
 scp -P 22022 USER@HOST:/<PATH TO REMOTE FILE> <PATH TO LOCAL FILE>
 ```
+Tunnel localhost services on Remote Host to Local Host
+```bash
+ssh -L LPORT:localhost:RPORT USER@HOST
+```
 #### Linux - SSH Keys
 * [DO Set Up SSH KeyPair](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2)
 Generate KeyPair
