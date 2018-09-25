@@ -213,6 +213,10 @@ docker network inspect DOCKNETID
 
 #### Tools
 #### OS
+SMB Enumeration
+```bash
+
+```
 
 ### **Markdown**
 #### Markdown - Links
