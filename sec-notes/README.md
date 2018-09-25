@@ -256,7 +256,11 @@ Basic full TCP scan all Ports, run Scripts and Output all Formats
 ```bash
 nmap -sV -sC -p 1-65535 -T4 -A -v 10.10.10.1/24 -oA ./<REPORT>
 ```
-
+#### Tools - WireShark
+Wiresharek quick check filters
+```bash
+HTTP contains POST
+```
 #### Tools - other
 * [Official Docs](https://www.sublimetext.com/docs/3/linux_repositories.html)
 Install Sublime 3 from Repo
