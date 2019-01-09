@@ -41,7 +41,7 @@ IP_TUNNEL = ni.ifaddresses('tun0')[ni.AF_INET][0]['addr']
 ```
 
 Setup a simple interactive Listener and Upgrade shell if possible
-```bash
+```python
 import os
 l = listen(port=13337, bindaddr = "0.0.0.0")
 c = l.wait_for_connection()
