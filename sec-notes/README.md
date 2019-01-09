@@ -215,12 +215,6 @@ docker network ls
 docker network inspect DOCKNETID
 ```
 
-### **ElasticSearch & Kibana**
-#### ElasticSearch & Kibana - Installation
-#### Collecting Data
-#### Search for Data
-#### Building a Dashboard
-#### Monitoring/Networking
 
 ### **Windows**
 #### Powershell
