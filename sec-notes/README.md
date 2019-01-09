@@ -27,27 +27,27 @@
 #### Python - pwntools
 * [pwntools-docs](https://docs.pwntools.com/en/stable/search.html?q=irc&check_keywords=yes&area=default)
 
+#### Python - other
+Python SimpleHTTP Server
+```bash
+python -m SimpleHTTPServer 80
+```
+
 Get ip of a specific interface
 ```python
+import netifaces as ni
 ni.ifaddresses('tun0')
 IP_TUNNEL = ni.ifaddresses('tun0')[ni.AF_INET][0]['addr']
 ```
 
 Setup a simple interactive Listener and Upgrade shell if possible
 ```bash
+import os
 l = listen(port=13337, bindaddr = "0.0.0.0")
 c = l.wait_for_connection()
 c.send("""python -c 'import pty; pty.spawn("/bin/bash")'\n""")
 log.info('shell upgraded from sh to tty-bash')
 c.interactive()
-```
-
-
-
-#### Python - other
-Python SimpleHTTP Server
-```bash
-python -m SimpleHTTPServer 80
 ```
 
 ### **Microcontroller**
