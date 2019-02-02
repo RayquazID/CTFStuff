@@ -140,6 +140,12 @@ cat /root/.ssh/<FILENAME>
 ```
 ### **QEMU**
 #### QEMU Debian install
+```bash
+apt-get install qemu-system-x86
+apt-get install qemu-system
+apt-get install qemu-user 
+```
+
 #### QEMU basic usage
 #### QEMU Advanced usage
 #### Fuzzing with QEMU
