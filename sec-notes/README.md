@@ -139,11 +139,12 @@ cat /root/.ssh/<FILENAME>
 ./LinEnum.sh -r report -e /tmp/LinEnum/ -t
 ```
 ### **QEMU**
-#### QEMU basics
+#### QEMU Debian install
+#### QEMU basic usage
 
 
 ### **Docker**
-##### How to install docker && docker-compose
+#### How to install docker && docker-compose
 First you need to install the official docker CE linux package on your system (in my case Debian based way). There is a complete guide for most systems available here [Docker install Docs](https://docs.docker.com/install/linux/docker-ce/debian/#install-using-the-repository)
 
 Now update your apt
@@ -178,20 +179,20 @@ sudo reboot
 id
 ```
 
-##### How to build an image
-##### How to run and stop a container
-##### How to check status
+#### How to build an image
+#### How to run and stop a container
+#### How to check status
 ```bash
 docker container stats --all
 docker ps 
 ```
-##### How to manage users
-##### How to manage containers
-##### How to delete a container
-##### How to create a volume
+#### How to manage users
+#### How to manage containers
+#### How to delete a container
+#### How to create a volume
 ```bash
 ```
-##### How to backup a container
+#### How to backup a container
 Find the container ID and Backup container
 ```bash
 docker ps
@@ -210,8 +211,8 @@ Export container as .tar archive
 docker save -o ~/container1.tar IMAGENAME
 ```
 
-##### How to connect to a container
-##### Networking with Docker
+#### How to connect to a container
+#### Networking with Docker
 * [Docker Docs Networking](https://docs.docker.com/network/)
 * [Container Networking](https://docs.docker.com/config/containers/container-networking/)
 
