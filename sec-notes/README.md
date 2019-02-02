@@ -306,6 +306,19 @@ Install and Update Sublime
 apt-get update
 apt-get install sublime-text
 ```
+#### Tools - vncpwd 
+install vncpwd
+```bash
+git clone https://github.com/jeroennijhof/vncpwd.git
+cd vncpwd
+make
+make install
+```
+Decrypt $USER/.vnc/passwd file
+```bash
+vncpwd passwd
+Password: secretvncpw
+```
 ### **YouTube**
 #### Youtube - Channels
 * [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)
