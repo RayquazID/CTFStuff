@@ -141,6 +141,8 @@ cat /root/.ssh/<FILENAME>
 ### **QEMU**
 #### QEMU Debian install
 #### QEMU basic usage
+#### QEMU Advanced usage
+#### Fuzzing with QEMU
 
 
 ### **Docker**
