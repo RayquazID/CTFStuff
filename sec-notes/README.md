@@ -1,6 +1,8 @@
 # Security-Notepad
 ## My random notes on different topics
 
+### Reference
+
 ### **RE**
 #### RE - Links
 * [Reversing Basics](https://medium.com/bugbountywriteup/bolo-reverse-engineering-part-1-basic-programming-concepts-f88b233c63b7)
@@ -136,6 +138,10 @@ cat /root/.ssh/<FILENAME>
 ```bash
 ./LinEnum.sh -r report -e /tmp/LinEnum/ -t
 ```
+### **QEMU**
+#### QEMU basics
+
+
 
 ##### How to install docker && docker-compose
 First you need to install the official docker CE linux package on your system (in my case Debian based way). There is a complete guide for most systems available here [Docker install Docs](https://docs.docker.com/install/linux/docker-ce/debian/#install-using-the-repository)
