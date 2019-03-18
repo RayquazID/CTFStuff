@@ -72,7 +72,13 @@ dtrx something.zip
 ```
 Extract all kinds of archives without extra tools
 ```bash
-to be filled...
+[.tar]    tar -xvf
+[.tar.gz] tar -zxvf
+[.gz]
+[.tar.bz] tar -xjvf
+[.zip]
+[.7z]
+[.rar]
 ```
 Find info on zip-Archive incl. Encryption Algorithm
 ```bash
