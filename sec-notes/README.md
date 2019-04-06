@@ -144,6 +144,8 @@ cat /root/.ssh/<FILENAME>
 ```bash
 ./LinEnum.sh -r report -e /tmp/LinEnum/ -t
 ```
+#### Linux - openvpn Server
+* [DO Setup Tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04)
 ### **QEMU**
 #### QEMU Debian install
 ```bash
