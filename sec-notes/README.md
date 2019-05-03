@@ -51,6 +51,25 @@ c.send("""python -c 'import pty; pty.spawn("/bin/bash")'\n""")
 log.info('shell upgraded from sh to tty-bash')
 c.interactive()
 ```
+### **GO**
+#### GO - install and setup
+Debian Systems
+sudo apt install go-golang
+Arch
+sudo pacman -S go
+OR
+For example on a raspbian
+Download and extract the tar.gz archive to /usr/local/go
+
+Setup $GOROOT and $GOPATH for compiling and other stuff
+add those two lines to your ~/.profile and source it
+/usr/local/go/bin is where your go installation lives
+and add gopath to path variable
+```bash
+export GOPATH=$HOME/go
+export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
+```
+
 
 ### **Microcontroller**
 #### Microcontroller - Links
