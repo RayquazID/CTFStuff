@@ -165,6 +165,18 @@ cat /root/.ssh/<FILENAME>
 ```
 #### Linux - openvpn Server
 * [DO Setup Tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04)
+
+### **Fuzzing with afl - Basics**
+#### find a target
+To be filled...
+#### install afl-latest
+```bash
+wget http://lcamtuf.coredump.cx/afl/releases/afl-latest.tgz
+tar -xvf afl-latest.tgz
+cd afl-latest
+make
+sudo make install
+```
 ### **QEMU**
 #### QEMU Debian install
 ```bash
@@ -176,6 +188,7 @@ apt-get install qemu-user
 #### QEMU basic usage
 #### QEMU Advanced usage
 #### Fuzzing with QEMU
+
 
 
 ### **Docker**
