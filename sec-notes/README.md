@@ -179,6 +179,7 @@ sudo make install
 ```
 #### start fuzzing and afl usage
 * [fuzzing 101](https://research.aurainfosec.io/hunting-for-bugs-101/)
+* [awesome-fuzzing](https://github.com/secfigo/Awesome-Fuzzing#tools)
 
 The process of using AFL is pretty straight forward
 
