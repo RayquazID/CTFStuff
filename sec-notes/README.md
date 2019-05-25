@@ -177,6 +177,15 @@ cd afl-latest
 make
 sudo make install
 ```
+#### start fuzzing and afl usage
+* [fuzzing 101](https://research.aurainfosec.io/hunting-for-bugs-101/)
+
+The process of using AFL is pretty straight forward
+
+ - Compile a binary using AFL’s compiler wrappers
+ - Fuzz the binary using afl-fuzz <— this is where the magic happens.
+ - Review any unique crashes reported by afl-fuzz. Unique crashes occur if any of the afl-fuzz modified input files, result in the target binary crashing.
+
 ### **QEMU**
 #### QEMU Debian install
 ```bash
