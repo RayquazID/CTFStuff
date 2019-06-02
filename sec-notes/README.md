@@ -165,7 +165,15 @@ cat /root/.ssh/<FILENAME>
 ```
 #### Linux - openvpn Server
 * [DO Setup Tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04)
-
+#### Linux - zsh syntax highlighting
+1. Download the plugin
+```bash
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+```
+2. add to plugins in ~/.zshrc
+```bash
+plugins=( [plugins...] zsh-syntax-highlighting)
+```
 ### **Fuzzing with afl - Basics**
 #### find a target
 To be filled...
