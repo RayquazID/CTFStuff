@@ -99,6 +99,10 @@ Extract all kinds of archives without extra tools
 [.7z]
 [.rar]
 ```
+Creating all kinds of archives without extra tools
+```bash
+tar -cvzf <ARCHIVE NAME> </path/to/folder>
+```
 Find info on zip-Archive incl. Encryption Algorithm
 ```bash
 7z l -slt example.zip
