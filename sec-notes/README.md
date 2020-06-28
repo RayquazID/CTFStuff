@@ -178,6 +178,11 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 ```bash
 plugins=( [plugins...] zsh-syntax-highlighting)
 ```
+#### Linux - git init setup
+```bash
+git config --global user.name <USERNAME>
+git config --global user.email <EMAIL>
+```
 ### **Fuzzing with afl - Basics**
 #### find a target
 To be filled...
